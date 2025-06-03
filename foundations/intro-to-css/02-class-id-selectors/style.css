@@ -1,0 +1,17 @@
+.pnormal {
+   background-color: pink; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#idtwo {
+    color:blue;
+    font-size: 32px;
+}
+.advanced {
+    font-size: 24px;
+
+}
+#idfour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
